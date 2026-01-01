@@ -1,0 +1,9 @@
+{
+  "total_samples": 500,
+  "original_correct": 275,
+  "original_accuracy": 0.55,
+  "attack_success_count": 12,
+  "attack_success_rate": 0.04363636363636364,
+  "perturbed_accuracy": 0.536,
+  "accuracy_drop": 0.014000000000000012
+}

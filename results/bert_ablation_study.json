@@ -1,0 +1,22 @@
+{
+  "pinyin": {
+    "attack_success": 0,
+    "original_correct": 49,
+    "success_rate": 0.0
+  },
+  "shape": {
+    "attack_success": 2,
+    "original_correct": 49,
+    "success_rate": 0.04081632653061224
+  },
+  "sub": {
+    "attack_success": 0,
+    "original_correct": 49,
+    "success_rate": 0.0
+  },
+  "all": {
+    "attack_success": 4,
+    "original_correct": 49,
+    "success_rate": 0.08163265306122448
+  }
+}

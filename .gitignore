@@ -1,0 +1,7 @@
+bert-base-chinese/
+best_bert.pt
+.git/
+.idea/
+.venv/
+__pycache__/
+git
